@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFirstRPS", "DemoFirstRPS.csproj", "{EC26C2B9-074B-4523-99B5-89F2E13A44AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC26C2B9-074B-4523-99B5-89F2E13A44AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC26C2B9-074B-4523-99B5-89F2E13A44AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC26C2B9-074B-4523-99B5-89F2E13A44AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC26C2B9-074B-4523-99B5-89F2E13A44AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E9A8F6-0DA7-4754-9ECC-FA1EC6F273FD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w/lqepi6bz/W5om7KIs0HbJLciBGsz4ymJTuAEGE74zmI9tqHK9W5rG+ji5fgMEaP5xtWpNjwSUcwiQyJKfMVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Terrence\\Desktop\\12062021_batch\\demoTest\\TestingTwo\\TestingTwo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terrence\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

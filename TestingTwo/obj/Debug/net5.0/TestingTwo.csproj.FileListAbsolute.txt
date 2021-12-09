@@ -1,0 +1,16 @@
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\bin\Debug\net5.0\TestingTwo.exe
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\bin\Debug\net5.0\TestingTwo.deps.json
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\bin\Debug\net5.0\TestingTwo.runtimeconfig.json
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\bin\Debug\net5.0\TestingTwo.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\bin\Debug\net5.0\TestingTwo.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\bin\Debug\net5.0\ref\TestingTwo.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\bin\Debug\net5.0\TestingTwo.pdb
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\obj\Debug\net5.0\TestingTwo.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\obj\Debug\net5.0\TestingTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\obj\Debug\net5.0\TestingTwo.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\obj\Debug\net5.0\TestingTwo.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\obj\Debug\net5.0\TestingTwo.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\obj\Debug\net5.0\TestingTwo.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\obj\Debug\net5.0\ref\TestingTwo.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\obj\Debug\net5.0\TestingTwo.pdb
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\TestingTwo\obj\Debug\net5.0\TestingTwo.genruntimeconfig.cache

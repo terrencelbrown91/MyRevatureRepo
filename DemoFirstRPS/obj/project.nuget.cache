@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t5FxxEXwG5mLk1OyM1nDPPhr2G33YTbMgaB89kTQkIt25/z7QJbhpx685JcEj4q8aEC+XdcmeUVu4+XpTK/iag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Terrence\\Desktop\\12062021_batch\\demoTest\\DemoFirstRPS\\DemoFirstRPS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terrence\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

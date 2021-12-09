@@ -1,0 +1,16 @@
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\bin\Debug\net5.0\DemoFirstRPS.exe
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\bin\Debug\net5.0\DemoFirstRPS.deps.json
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\bin\Debug\net5.0\DemoFirstRPS.runtimeconfig.json
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\bin\Debug\net5.0\DemoFirstRPS.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\bin\Debug\net5.0\DemoFirstRPS.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\bin\Debug\net5.0\ref\DemoFirstRPS.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\bin\Debug\net5.0\DemoFirstRPS.pdb
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\obj\Debug\net5.0\DemoFirstRPS.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\obj\Debug\net5.0\DemoFirstRPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\obj\Debug\net5.0\DemoFirstRPS.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\obj\Debug\net5.0\DemoFirstRPS.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\obj\Debug\net5.0\DemoFirstRPS.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\obj\Debug\net5.0\DemoFirstRPS.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\obj\Debug\net5.0\ref\DemoFirstRPS.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\obj\Debug\net5.0\DemoFirstRPS.pdb
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\DemoFirstRPS\obj\Debug\net5.0\DemoFirstRPS.genruntimeconfig.cache
