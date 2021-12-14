@@ -1,0 +1,15 @@
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\bin\Debug\net5.0\HackrandAssignment.exe
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\bin\Debug\net5.0\HackrandAssignment.deps.json
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\bin\Debug\net5.0\HackrandAssignment.runtimeconfig.json
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\bin\Debug\net5.0\HackrandAssignment.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\bin\Debug\net5.0\HackrandAssignment.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\bin\Debug\net5.0\ref\HackrandAssignment.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\bin\Debug\net5.0\HackrandAssignment.pdb
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\obj\Debug\net5.0\HackrandAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\obj\Debug\net5.0\HackrandAssignment.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\obj\Debug\net5.0\HackrandAssignment.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\obj\Debug\net5.0\HackrandAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\obj\Debug\net5.0\HackrandAssignment.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\obj\Debug\net5.0\ref\HackrandAssignment.dll
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\obj\Debug\net5.0\HackrandAssignment.pdb
+C:\Users\Terrence\Desktop\12062021_batch\demoTest\HackrandAssignment\obj\Debug\net5.0\HackrandAssignment.genruntimeconfig.cache

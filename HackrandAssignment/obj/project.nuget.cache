@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EmJ+fCySZakXn4ioMxsKQxkptM02ctx4Gje4gUImdJ0W77dmDGoijP7rnfiIpJSkM8517pFE4UQz71ZzQGCBmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Terrence\\Desktop\\12062021_batch\\demoTest\\HackrandAssignment\\HackrandAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terrence\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
