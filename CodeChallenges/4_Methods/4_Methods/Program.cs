@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace _4_MethodsChallenge
 {
     public class Program
@@ -9,16 +10,24 @@ namespace _4_MethodsChallenge
             /**
                 YOUR CODE HERE.
             **/
+            
+            
+            
+
         }
 
-        public static string GetName()
+        public static string GetName(string name)
         {
-            throw new NotImplementedException("GetName() is not implemented yet0");
+            // //throw new NotImplementedException("GetName() is not implemented yet0");
+            Console.WriteLine("What is your name");
+            string myRead = Console.ReadLine();
+
+            return myRead;
         }
 
         public static string GreetFriend(string name)
         {
-            throw new NotImplementedException("GreetFriend() is not implemented yet");
+            //throw new NotImplementedException("GreetFriend() is not implemented yet");
         }
 
         public static double GetNumber()

@@ -38,6 +38,7 @@ namespace _4_MethodsChallenge.Tests
             var input = new StringReader(name.ToString());
             Console.SetIn(input);
             Assert.Equal(Program.GetName(), name);
+            
         }
 
         [Theory]
@@ -45,7 +46,7 @@ namespace _4_MethodsChallenge.Tests
         public void GreetFriendShouldGreet(string name)
         {
             string result = Program.GreetFriend(name);
-            Assert.Equal($"Hello, {name}. You are my friend.", result);
+            Assert.Equal($"Hello, {name}.  You are my friend.", result);
         }
 
         [Theory]
