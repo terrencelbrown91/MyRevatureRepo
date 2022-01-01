@@ -1,0 +1,133 @@
+using System;
+using System.Collections.Generic;
+
+namespace students
+{
+    public class Student
+    {
+
+        public String name
+        {
+            get;
+            set;
+        }
+        public int age
+        {
+            get;
+            set;
+        }
+        public int gpa
+        {
+            get;
+            set;
+        }
+        public String History
+        {
+            get;
+            set;
+        }
+        public String Science
+        {
+            get;
+            set;
+        }
+        public String SocialStudies
+        {
+            get;
+            set;
+        }
+        public String Alegbra
+        {
+            get;
+            set;
+        }
+        public String ComputerScience
+        {
+            get;
+            set;
+        }
+
+
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Student st1 = new Student()
+            {
+
+                age = 21,
+                name = "Terry",
+                gpa = 90,
+                Science = "A",
+                SocialStudies = "B",
+                Alegbra = "C",
+                History = "D",
+                ComputerScience = "A",
+                
+            };
+            Student st2 = new Student()
+            {
+                age = 22,
+                name = "Clay",
+                gpa = 94,
+                Science = "B",
+                SocialStudies = "A",
+                Alegbra = "B",
+                History = "A",
+                ComputerScience = "A",
+            };
+
+            Student st3 = new Student()
+            {
+                age = 25,
+                name = "rick",
+                gpa = 96,
+                Science = "C",
+                SocialStudies = "A",
+                Alegbra = "C",
+                History = "A",
+                ComputerScience = "B",
+            };
+            Student st4 = new Student()
+            {
+                age = 26,
+                name = "Jermaine",
+                gpa = 98,
+                Science = "D",
+                SocialStudies = "C",
+                Alegbra = "A",
+                History = "B",
+                ComputerScience = "C",
+            };
+            Student st5 = new Student()
+            {
+                age = 30,
+                name = "Anna",
+                gpa = 100,
+                Science = "A",
+                SocialStudies = "A",
+                Alegbra = "A",
+                History = "A",
+                ComputerScience = "A",
+            };
+
+            List<Student> myStudent = new List<Student>();
+            myStudent.Add(st1);
+            myStudent.Add(st2);
+            myStudent.Add(st3);
+            myStudent.Add(st4);
+            myStudent.Add(st5);
+
+            Console.WriteLine("age={0}, grade ={1}, name = {2} Science = {3}, SocialStudies{4}, Alegbra = {5}, History= {6}, ComputerScience={7}", + st1.age, st1.gpa, st1.name, st1.Science, st1.SocialStudies, st1.Alegbra, st1.History, st1.ComputerScience );
+            Console.WriteLine("age={0}, grade ={1}, name = {2} Science = {3}, SocialStudies{4}, Alegbra = {5}, History= {6}, ComputerScience={7}", +st2.age, st2.gpa, st2.name, st2.Science, st2.SocialStudies, st2.Alegbra, st2.History, st2.ComputerScience);
+            Console.WriteLine("age={0}, grade ={1}, name = {2} Science = {3}, SocialStudies{4}, Alegbra = {5}, History= {6}, ComputerScience={7}", +st3.age, st3.gpa, st3.name, st3.Science, st3.SocialStudies, st3.Alegbra, st3.History, st3.ComputerScience);
+            Console.WriteLine("age={0}, grade ={1}, name = {2} Science = {3}, SocialStudies{4}, Alegbra = {5}, History= {6}, ComputerScience={7}", +st4.age, st4.gpa, st4.name, st4.Science, st4.SocialStudies, st4.Alegbra, st4.History, st4.ComputerScience);
+            Console.WriteLine("age={0}, grade ={1}, name = {2} Science = {3}, SocialStudies{4}, Alegbra = {5}, History= {6}, ComputerScience={7}", +st5.age, st5.gpa, st5.name, st5.Science, st5.SocialStudies, st5.Alegbra, st5.History, st5.ComputerScience);
+
+
+        }
+
+    }
+}
+
