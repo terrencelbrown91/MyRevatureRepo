@@ -25,7 +25,37 @@ namespace _3_DataTypeAndVariablesChallenge
         /// <returns></returns>
         public static string PrintValues(object obj)
         {
-            throw new NotImplementedException($"PrintValues() has not been implemented");
+            // throw new NotImplementedException($"PrintValues() has not been implemented");
+            switch (obj)
+            {
+                case 1: return "Data type => int";
+
+                case 2: return ("Data type => bool");
+                    break;
+                case 3: return ("Data type => short");
+                    break;
+                case 4: return ("Data type => char");
+                    break;
+                case 5: return ("Data type => double");
+                    break;
+                case 6: return ("Data type => float");
+                    break;
+                case 7: return ("Data type => byte");
+                    break;
+                case 8: return ("Data type => byte");
+                    break;
+                case 9: return ("Data type => sbyte");
+
+                    break;                
+                
+                case 10: return ("Data type => uint");
+                    break;
+            
+            
+            }
+            return default;
+            
+       
         }
 
         /// <summary>
